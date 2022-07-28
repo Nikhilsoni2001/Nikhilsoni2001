@@ -55,8 +55,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhilsoni2001&count_private=true&show_icons=true&include_all_commits=true" alt="Nikhilsoni2001 | Stats"/>
 </p>
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhilsoni2001&theme=blue-green"/></p>
-
 ## Contributions :chart_with_upwards_trend:
 <img src="https://activity-graph.herokuapp.com/graph?username=Nikhilsoni2001&theme=react-dark&bg_color=111&hide_border=true" width="100%"/>
 
